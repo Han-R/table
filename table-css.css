@@ -1,0 +1,19 @@
+body {
+  font-size: 15px;
+  direction: rtl;
+  font-family: 'DroidArabicKufi' !important;
+}
+
+.table>thead>tr>th {
+  border-bottom: 2px solid #a7c2d9 !important;
+  color: #365d7e !important;
+  text-align: center !important;
+}
+
+.table>tbody>tr>td {
+  text-align: center;
+}
+
+
+
+
